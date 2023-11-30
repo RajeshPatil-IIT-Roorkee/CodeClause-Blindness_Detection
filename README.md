@@ -1,6 +1,6 @@
 # CodeClause-Blindness_Detection
 
-# Blindness Detection Golden Project 
+# Golden Project - 1 : Blindness Detection  
 Welcome to the Blindness Detection Golden Project repository! This remarkable project, developed during my Artificial Intelligence Internship at CodeClause, represents a pivotal achievement in the intersection of AI and healthcare. Utilizing advanced techniques and ResNet models, this project aims to pioneer groundbreaking solutions in the early detection of blindness.
 
 # Project Highlights
